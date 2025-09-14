@@ -145,8 +145,5 @@ The project consists of several C# scripts attached to GameObjects in the Unity 
 ## Contributing
 Fork the repository on GitHub: [Kashyaplakkoju/Runner_up](https://github.com/Kashyaplakkoju/Runner_up). Pull requests welcome for bug fixes or features.
 
-## License
-This project is open-source under the MIT License (see LICENSE.md if available).
-
 ---  
-*Project generated on September 14, 2025.*
+
